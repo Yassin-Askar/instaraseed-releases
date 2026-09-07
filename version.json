@@ -1,0 +1,15 @@
+{
+  "version": "1.8.3",
+  "versionCode": 2026090706,
+  "releaseDate": "2026-09-07",
+  "apkSize": "67.32 MB",
+  "isMandatory": false,
+  "title": "تحديث إنستا رصيد v1.8.3",
+  "changelog": [
+    "تحسينات شاملة على سرعة تحويل الرصيد واستقرار النظام",
+    "تحديثات أمنية وتوافق كامل مع أندرويد الحديث",
+    "إصلاحات عامة للأخطاء والملاحظات"
+  ],
+  "downloadUrl": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v1.8.3/instaraseed-v1.8.3-2026-09-07.apk",
+  "releasePageUrl": "https://github.com/Yassin-Askar/instaraseed-releases/releases/latest"
+}
