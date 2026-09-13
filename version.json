@@ -1,8 +1,8 @@
 {
   "version": "1.9.0",
-  "versionCode": 2026091209,
-  "releaseDate": "2026-09-12",
-  "apkSize": "31.37 MB",
+  "versionCode": 2026091304,
+  "releaseDate": "2026-09-13",
+  "apkSize": "114.74 MB",
   "isMandatory": false,
   "title": "تحديث إنستا رصيد v1.9.0",
   "changelog": [
@@ -10,7 +10,7 @@
     "تحديثات أمنية وتوافق كامل مع أندرويد الحديث",
     "إصلاحات عامة للأخطاء والملاحظات"
   ],
-  "downloadUrl": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v1.9.0/instaraseed-v1.9.0-2026-09-12.apk",
+  "downloadUrl": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v1.9.0/instaraseed-v1.9.0-2026-09-13-universal.apk",
   "releasePageUrl": "https://github.com/Yassin-Askar/instaraseed-releases/releases/latest",
   "variants": [
     {
@@ -20,10 +20,10 @@
       "url": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v1.9.0/instaraseed-v1.9.0-2026-09-12.apk"
     },
     {
-      "name": "instaraseed-v1.9.0-2026-09-12-universal.apk",
-      "size": "47.56 MB",
+      "name": "instaraseed-v1.9.0-2026-09-13-universal.apk",
+      "size": "114.74 MB",
       "type": "universal",
-      "url": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v1.9.0/instaraseed-v1.9.0-2026-09-12-universal.apk"
+      "url": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v1.9.0/instaraseed-v1.9.0-2026-09-13-universal.apk"
     }
   ]
 }
