@@ -1,3 +1,18 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "id": "news-hello-world-2026-09-29",
+      "category": "news",
+      "priority": "normal",
+      "publishedAt": "2026-09-28T23:07:13Z",
+      "title": {
+        "ar": "مرحباً بالعالم",
+        "en": "Hello world"
+      },
+      "body": {
+        "ar": "مرحباً بالعالم من إنستا رصيد!",
+        "en": "Hello world from InstaRaseed!"
+      }
+    }
+  ]
 }
