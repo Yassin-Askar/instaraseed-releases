@@ -1,39 +1,4 @@
 {
   "messages": [
-    {
-      "id": "instaraseed-major-v2-separate-app-2026-10-01",
-      "category": "update",
-      "priority": "important",
-      "publishedAt": "2026-10-01T12:54:49.041Z",
-      "title": {
-        "ar": "إنستا رصيد 2.0 — تطبيق مستقل جديد",
-        "en": "InstaRaseed 2.0 — a new separate app"
-      },
-      "body": {
-        "ar": "الإصدار 2.0.0 هو إصدار رئيسي جديد من إنستا رصيد ويُثبَّت كتطبيق مستقل عن التطبيق القديم. يمكن الاحتفاظ بالتطبيقين على الجهاز؛ بيانات التطبيق القديم لا تنتقل تلقائياً إلى التطبيق الجديد.",
-        "en": "Version 2.0.0 is a new major release of InstaRaseed and installs as a separate app from the old one. You can keep both apps on your device. Installing the new version does not replace the old app, and old app data is not transferred automatically."
-      },
-      "action": {
-        "label": {
-          "ar": "تنزيل الإصدار الجديد",
-          "en": "Download the new app"
-        },
-        "url": "https://github.com/Yassin-Askar/instaraseed-releases/releases/tag/v2.0.0"
-      }
-    },
-    {
-      "id": "news-hello-world-2026-09-29",
-      "category": "news",
-      "priority": "normal",
-      "publishedAt": "2026-09-28T23:07:13Z",
-      "title": {
-        "ar": "مرحباً بالعالم",
-        "en": "مرحباً بالعالم"
-      },
-      "body": {
-        "ar": "مرحباً بالعالم من إنستا رصيد!",
-        "en": "مرحباً بالعالم من إنستا رصيد!"
-      }
-    }
   ]
 }
