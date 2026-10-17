@@ -1,23 +1,19 @@
 {
-  "version": "2.0.4",
-  "versionCode": 2026101701,
+  "version": "2.0.5",
+  "versionCode": 2026101702,
   "releaseDate": "2026-10-17",
   "apkSize": "30.28 MB",
   "isMandatory": false,
-  "title": "تحديث إنستا رصيد v2.0.4",
-  "changelog": [
-    "إصدار رئيسي جديد 2.0 يُثبَّت كتطبيق مستقل عن التطبيق القديم ولا يستبدله",
-    "يمكن الاحتفاظ بالتطبيقين؛ بيانات التطبيق القديم لا تنتقل تلقائياً إلى التطبيق الجديد",
-    "تحسين عرض نتائج التحويل وتمييز العمليات الفاشلة وغير المؤكدة وإعادة محاولة العمليات الفاشلة"
-  ],
-  "downloadUrl": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v2.0.4/instaraseed-v2.0.4-2026-10-17.apk",
+  "title": "تحديث إنستا رصيد v2.0.5",
+  "changelog": [],
+  "downloadUrl": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v2.0.5/instaraseed-v2.0.5-2026-10-17.apk",
   "releasePageUrl": "https://github.com/Yassin-Askar/instaraseed-releases/releases/latest",
   "variants": [
     {
-      "name": "instaraseed-v2.0.4-2026-10-17.apk",
+      "name": "instaraseed-v2.0.5-2026-10-17.apk",
       "size": "30.28 MB",
       "type": "arm",
-      "url": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v2.0.4/instaraseed-v2.0.4-2026-10-17.apk"
+      "url": "https://github.com/Yassin-Askar/instaraseed-releases/releases/download/v2.0.5/instaraseed-v2.0.5-2026-10-17.apk"
     }
   ]
 }
